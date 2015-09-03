@@ -6,7 +6,7 @@ An R package for measuring OCR quality
 
 **Author:** [Lincoln Mullen](http://lincolnmullen.com)<br> **License:** [MIT](http://opensource.org/licenses/MIT)<br> **Status:** In development
 
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/ocrquality)](http://cran.r-project.org/package=ocrquality) [![CRAN\_Downloads](http://cranlogs.r-pkg.org/badges/grand-total/ocrquality)](http://cran.r-project.org/package=ocrquality)
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/ocrquality)](http://cran.r-project.org/package=ocrquality) [![CRAN\_Downloads](http://cranlogs.r-pkg.org/badges/grand-total/ocrquality)](http://cran.r-project.org/package=ocrquality) [![Travis-CI Build Status](https://travis-ci.org/lmullen/ocrquality.svg?branch=master)](https://travis-ci.org/lmullen/ocrquality>) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/lmullen/ocrquality?branch=master)](https://ci.appveyor.com/project/lmullen/ocrquality)
 
 ### Description
 

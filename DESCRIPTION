@@ -11,5 +11,5 @@ Date: 2015-09-02
 License: MIT + file LICENSE
 LazyData: yes
 VignetteBuilder: knitr
-URL:
-BugReports:
+URL: https://github.com/lmullen/ocrquality
+BugReports: https://github.com/lmullen/ocrquality/issues

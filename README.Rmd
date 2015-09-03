@@ -24,6 +24,8 @@ An R package for measuring OCR quality
 
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/ocrquality)](http://cran.r-project.org/package=ocrquality)
 [![CRAN_Downloads](http://cranlogs.r-pkg.org/badges/grand-total/ocrquality)](http://cran.r-project.org/package=ocrquality)
+[![Travis-CI Build Status](https://travis-ci.org/lmullen/ocrquality.svg?branch=master)](https://travis-ci.org/lmullen/ocrquality>)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/lmullen/ocrquality?branch=master)](https://ci.appveyor.com/project/lmullen/ocrquality)
 
 ### Description
 
