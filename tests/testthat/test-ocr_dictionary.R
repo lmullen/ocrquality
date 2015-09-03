@@ -1,9 +1,9 @@
-context("OCR quality")
+context("OCR dictionary")
 
 dickens <- "Itt was thle best of times, it was thle worst of times, it was the age of wisdom, it was the age of foolishness."
 shakespeare <- "Tooo be, or not tooo be---that is the question: Whether 'tis nobler in the mind to suffer; The slings and arrows of outrageous fortune..."
 
-dictionary_results <- ocr_quality(c(dickens, shakespeare), method = "dictionary")
+dictionary_results <- ocr_dictionary(c(dickens, shakespeare))
 
 test_that("OCR quality returns a value between 0 and 1", {
   expect_less_than(max(dictionary_results), 1)
