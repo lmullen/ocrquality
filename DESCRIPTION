@@ -1,0 +1,15 @@
+Package: ocrquality
+Type: Package
+Title: Measures of OCR Quality
+Description: Provides quick estimations of the quality of optical character
+  recognition (OCR). These measures do not require a ground truth, so they are
+  only meaningful relative to other documents in the corpus.
+Authors@R: c(person("Lincoln", "Mullen", role = c("aut", "cre"),
+  email = "lincoln@lincolnmullen.com"))
+Version: 0.0.0.9000
+Date: 2015-09-02
+License: MIT + file LICENSE
+LazyData: yes
+VignetteBuilder: knitr
+URL:
+BugReports:
