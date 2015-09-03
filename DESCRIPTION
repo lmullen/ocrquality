@@ -13,3 +13,7 @@ LazyData: yes
 VignetteBuilder: knitr
 URL: https://github.com/lmullen/ocrquality
 BugReports: https://github.com/lmullen/ocrquality/issues
+Depends: R (>= 3.2.2)
+Suggests: testthat,
+    knitr
+Imports: stringr
